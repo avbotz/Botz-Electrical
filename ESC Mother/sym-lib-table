@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Molex Mother")(type "Legacy")(uri "${KIPRJMOD}/Molex Connector Motherboard/KiCAD/2022-11-22_07-27-10/2022-11-22_07-27-10.lib")(options "")(descr "molex vertical motherboard connector"))
+  (lib (name "mobo ET60S")(type "KiCad")(uri "${KIPRJMOD}/Mobo ET60S Conn/ET60S-D03-5-02-D02-S-R1-S.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "ET60S")(type "KiCad")(uri "${KIPRJMOD}/ET60S Mobo Conn/ET60S-D02-5-02-D03-S-VP-S.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,206 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "(6.0.1-0)"
+    },
+    "CreationDate": "2023-01-20T10:28:09-08:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "ESC Mother",
+      "GUID": "45534320-4d6f-4746-9865-722e6b696361",
+      "Revision": "rev?"
+    },
+    "Size": {
+      "X": 166.2,
+      "Y": 104.2505
+    },
+    "LayerNumber": 6,
+    "BoardThickness": 2.0,
+    "Finish": "None"
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.127,
+      "PadToTrack": 0.127,
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.25,
+      "TrackToRegion": 0.8,
+      "RegionToRegion": 0.8
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad": 0.127,
+      "PadToTrack": 0.127,
+      "TrackToTrack": 0.2,
+      "TrackToRegion": 0.8,
+      "RegionToRegion": 0.8
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "ESC Mother-F_Cu.gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-Phase_1.gbr",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-Phase_2.gbr",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-Phase_3.gbr",
+      "FileFunction": "Copper,L4,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-5V.gbr",
+      "FileFunction": "Copper,L5,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-B_Cu.gbr",
+      "FileFunction": "Copper,L6,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "ESC Mother-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "ESC Mother-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "ESC Mother-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Color": "R128G128B128",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Color": "R18G50B113",
+      "Thickness": 0.01,
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "F.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.354,
+      "Material": "FR4",
+      "Name": "F.Cu/Phase_1",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to Phase_1)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Phase_1"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.354,
+      "Material": "FR4",
+      "Name": "Phase_1/Phase_2",
+      "Notes": "Type: dielectric layer 2 (from Phase_1 to Phase_2)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Phase_2"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.354,
+      "Material": "FR4",
+      "Name": "Phase_2/Phase_3",
+      "Notes": "Type: dielectric layer 3 (from Phase_2 to Phase_3)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "Phase_3"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.354,
+      "Material": "FR4",
+      "Name": "Phase_3/5V",
+      "Notes": "Type: dielectric layer 4 (from Phase_3 to 5V)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "5V"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.354,
+      "Material": "FR4",
+      "Name": "5V/B.Cu",
+      "Notes": "Type: dielectric layer 5 (from 5V to B.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "B.Cu"
+    },
+    {
+      "Type": "SolderMask",
+      "Color": "R18G50B113",
+      "Thickness": 0.01,
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}

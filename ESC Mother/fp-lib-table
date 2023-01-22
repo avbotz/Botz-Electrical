@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "molex mother")(type "KiCad")(uri "${KIPRJMOD}/Molex Connector Motherboard/KiCAD/2022-11-22_07-27-10/footprints.pretty")(options "")(descr "molex vertical motherboard connector"))
+  (lib (name "ET60S mobo conn")(type "KiCad")(uri "${KIPRJMOD}/ET60S Mobo Conn")(options "")(descr "et60s vertical"))
+  (lib (name "ET60S edited")(type "KiCad")(uri "${KIPRJMOD}/ET60S Mobo Conn")(options "")(descr ""))
+)
