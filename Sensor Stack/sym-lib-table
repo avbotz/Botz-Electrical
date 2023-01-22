@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "BluePill")(type "KiCad")(uri "G:/My Drive/Botz/Sensor Stack/Libraries/bp.kicad_sym")(options "")(descr "Symbol Library for STM Blue Pill"))
+  (lib (name "TI_ADC")(type "KiCad")(uri "G:/My Drive/Botz/Sensor Stack/Libraries/TI_ADC.kicad_sym")(options "")(descr ""))
+  (lib (name "BluePillPartLike")(type "KiCad")(uri "G:/My Drive/Botz/Sensor Stack/Libraries/YAAJ_BluePill_Part_Like.kicad_sym")(options "")(descr "Better Blue Pill"))
+)
