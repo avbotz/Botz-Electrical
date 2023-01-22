@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"CAN","Conn_01x04_Male","JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical",138.600000,-68.700000,0.000000,top
+"J4","459854151","459854151",159.400000,-120.700000,0.000000,top
+"PWR","Screw_Terminal_01x02","TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal",117.620000,-69.100000,0.000000,top
+"Phase 1","Screw_Terminal_01x03","TerminalBlock_RND_205-00288_1x03_P5.08mm_Horizontal",154.815000,-69.100000,0.000000,top

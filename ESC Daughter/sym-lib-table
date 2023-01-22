@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Molex Daughter Connector")(type "Legacy")(uri "${KIPRJMOD}/Molex Connector Daughterboard/KiCAD/2022-11-22_07-26-02/2022-11-22_07-26-02.lib")(options "")(descr "Molex connector for daughterboard; right angle and chunky"))
+  (lib (name "Daughter ET60T Symb")(type "KiCad")(uri "${KIPRJMOD}/Daughter ET60T Conn/ET60T-D03-5-02-D02-X-R1-S.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"CAN","Conn_01x04","JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical",138.500000,-120.410000,180.000000,top
+"J2","Screw_Terminal_01x02","TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal",121.165000,-119.820000,180.000000,top
+"J5","ET60T","SAMTEC_ET60T-D03-5-02-D02-X-R1-S",146.355000,-66.892500,180.000000,top
+"Phase 1","Screw_Terminal_01x03","TerminalBlock_RND_205-00288_1x03_P5.08mm_Horizontal",167.400000,-119.800000,180.000000,top
